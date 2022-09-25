@@ -3,7 +3,7 @@
 </script>
 
 <main>
-  <h1>Redirect examples</h1>
+  <h1>SvelteKit Redirect Examples</h1>
   <h2>Proper links</h2>
   <a href="/">Home</a>
   <h3>Blog posts</h3>
